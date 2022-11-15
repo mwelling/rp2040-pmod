@@ -3499,7 +3499,7 @@
     (uuid ee73be83-5e82-409b-99e7-fda6995d341e)
     (property "Reference" "U3" (id 0) (at 125.73 160.02 0))
     (property "Value" "LM66200" (id 1) (at 125.73 162.56 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-8" (id 2) (at 118.11 170.18 0)
+    (property "Footprint" "rp2040-pmod:SOT-5x3" (id 2) (at 118.11 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 118.11 170.18 0)
@@ -3878,7 +3878,7 @@
       (reference "U2") (unit 1) (value "AP2112K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/ee73be83-5e82-409b-99e7-fda6995d341e"
-      (reference "U3") (unit 1) (value "LM66200") (footprint "Package_TO_SOT_SMD:SOT-23-8")
+      (reference "U3") (unit 1) (value "LM66200") (footprint "rp2040-pmod:SOT-5x3")
     )
     (path "/c0c35ed2-d732-4ad4-b5d7-3ffd5a246f75"
       (reference "U4") (unit 1) (value "RP2040") (footprint "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm")
